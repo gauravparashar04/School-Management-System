@@ -101,7 +101,7 @@ Create a .env file in the frontend folder and add:
 ```
 REACT_APP_BASE_URL=http://localhost:5000
 ```
-
+s
 If a .env file already exists and the line is commented out, remove the comment.
 
 ```
